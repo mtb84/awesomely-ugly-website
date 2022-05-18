@@ -56,3 +56,8 @@ li {
     color: #7C5909;
     background-color: #FFC236;
 }
+
+footer {
+    rotate: 10deg;
+    border: 0ch;
+}
